@@ -1,4 +1,4 @@
-from utils import load_data,executed_operations, last_operations, account_mask, card_mask,date
+from utils import load_data, executed_operations, last_operations, account_mask, card_mask,date
 
 filepath = 'operations.json'
 load_data(filepath)
